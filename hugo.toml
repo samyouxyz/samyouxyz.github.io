@@ -6,3 +6,9 @@ theme = 'nostyleplease'
 [caches]
 [caches.images]
 dir = ':cacheDir/images'
+
+# this can be improved
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

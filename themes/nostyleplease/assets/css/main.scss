@@ -89,6 +89,16 @@ p { margin: 1rem 0; }
 
 li { margin: 0.4rem 0; }
 
+// remove bullet and margin to look good on mobile
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+#menu_item {
+  font-weight: bold;
+}
+
 a {
   text-decoration: none;
   &:hover { text-decoration: underline; }

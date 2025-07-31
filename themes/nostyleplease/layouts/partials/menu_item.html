@@ -1,6 +1,6 @@
 <ul>
     {{- range $item := .collection -}}
-        <li>
+        <li id="menu_item">
             {{- with $item.url -}}
                 <a href="{{ $item.url | relURL }}">{{ safeHTML $item.title }}</a>
             {{- else -}}
