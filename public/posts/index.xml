@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Sam You</title>
+    <link>https://samyou.xyz/posts/</link>
+    <description>Recent content in Posts on Sam You</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 May 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://samyou.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Intelligence as Compression</title>
+      <link>https://samyou.xyz/posts/intelligence-as-compression/</link>
+      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://samyou.xyz/posts/intelligence-as-compression/</guid>
+      <description>&lt;p&gt;The squishy thinking organism we carried around is the accumulation of human evolution packaging knowledge and experience for thousands of years. After you are born, you do not learn to talk after 2 or 3 years. You had already been learning to talk for thousands of years. It is the beauty of how intelligence can be compressed, transferred and mutated. This begs the question, &amp;ldquo;how did it do it?&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;One observation is the brain itself has a special compression representation, much like vector embeddings. After all, machine is trying to mimic the learning process, coincedently, very similar to how brain works - compressing lots of data into embedding vector space.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Interface as Compression</title>
+      <link>https://samyou.xyz/posts/interface-as-compression/</link>
+      <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://samyou.xyz/posts/interface-as-compression/</guid>
+      <description>&lt;p&gt;Computers love numbers. Actually, they hate everything except numbers. But humans are good with electrical signals (smell, taste and touch), electromagnetic waves (sight), and mechanical waves (sound). So in order for computers to communicate with humans, there needs to be an interpreter that interfaces between these two representations.&lt;/p&gt;&#xA;&lt;p&gt;It is not a coincidence that majority of resources have gone into inventing better technology involves:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;build better computers&lt;/li&gt;&#xA;&lt;li&gt;build better interfaces&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;People use human language to communicate, but computers give us this piece of plastic board with a bunch of buttons for you to press. It seems like you have to compress your intentions into a finite input space to transmit signals. So that means &amp;ldquo;building better interfaces&amp;rdquo; can be defined as reducing the compression work from humans and moving it toward computers.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Brain Filter</title>
+      <link>https://samyou.xyz/posts/brain-filter/</link>
+      <pubDate>Sun, 09 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://samyou.xyz/posts/brain-filter/</guid>
+      <description>&lt;p&gt;One of the most valuable resource that everyone has is time. I have been always figuring out how I can optimize the use of my time to learn what I want to learn. Many people are so smart that they can just read everything and understand everything. However, mother nature gave me a smol brain, so it is important for me to be frugal on the way I obsorb new information. Before deciding to invest time into understanding something, it should be intentional what and how to consume, sort of like a brain filter. From what I found so far, that may include, but not limited to:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Questions</title>
+      <link>https://samyou.xyz/posts/questions/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://samyou.xyz/posts/questions/</guid>
+      <description>&lt;h4 id=&#34;how-can-we-help-children-learn-to-think-better&#34;&gt;How can we help children learn to think better?&lt;/h4&gt;&#xA;&lt;p&gt;The world has changed, but the education system has not. Lagging behind the evolution renders traditional school no more than a deadweight. Everybody is worrying about AI taking our jobs, just like the industrial revolution taking farmers&amp;rsquo; jobs. It is bound to happen and it is a good thing.&lt;/p&gt;&#xA;&lt;p&gt;But in fact, what we should worry about is get the generation ready for that. And to prepare for that, it is not to hit our kids when they got F on report card, it is not to force them to memorize searchable facts, it is not to compare them and put them in ranks like product ranking, and clearly not just put kids sitting down the whole day listening to list of boring facts. You are wasting your kids time, and eventually destroying their life. What you need to do is to teach them how to think, how to be creative, and how to be nice. These are what robots cannot do.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

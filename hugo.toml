@@ -1,0 +1,8 @@
+baseURL = 'https://samyou.xyz'
+languageCode = 'en-us'
+title = 'Sam You'
+theme = 'nostyleplease'
+
+[caches]
+[caches.images]
+dir = ':cacheDir/images'

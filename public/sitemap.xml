@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://samyou.xyz/</loc>
+    <lastmod>2025-07-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samyou.xyz/posts/</loc>
+    <lastmod>2024-08-18T13:34:54+02:00</lastmod>
+  </url><url>
+    <loc>https://samyou.xyz/posts/intelligence-as-compression/</loc>
+    <lastmod>2023-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samyou.xyz/posts/interface-as-compression/</loc>
+    <lastmod>2023-04-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samyou.xyz/posts/brain-filter/</loc>
+    <lastmod>2023-04-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samyou.xyz/posts/questions/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samyou.xyz/categories/</loc>
+  </url><url>
+    <loc>https://samyou.xyz/tags/</loc>
+  </url>
+</urlset>
