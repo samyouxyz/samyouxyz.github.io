@@ -13,6 +13,10 @@ dir = ':cacheDir/images'
     [markup.goldmark.renderer]
       unsafe = true
 
+
+[params]
+  favicon = '/favicon.ico'
+
 [services]
   [services.googleAnalytics]
     id = 'G-PVKTQ6B49X'
