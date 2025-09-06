@@ -12,3 +12,7 @@ dir = ':cacheDir/images'
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[services]
+  [services.googleAnalytics]
+    id = 'G-PVKTQ6B49X'
